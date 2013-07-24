@@ -1,6 +1,6 @@
 box: wercker/ruby
 services:
-  - wercker/postgress
+  - wercker/postgressql
 # Build definition
 build:
   # The steps that will be executed on build
